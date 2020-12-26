@@ -1,2 +1,3 @@
 # COVID-19
-Our work is being sorted out and will be uploaded as soon as possible. Thank you for your attention.
+The datasets we used can be downloaded from https://pan.baidu.com/s/1TcoPOQ_5TG2gZmxsxOhMkA. The extraction code is m6j4.
+Thank you for your attention.
